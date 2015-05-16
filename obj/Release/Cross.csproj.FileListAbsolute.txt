@@ -1,0 +1,12 @@
+C:\Users\Лева\Documents\Visual Studio 2013\Projects\Cross\Cross\bin\Release\Cross.exe.config
+C:\Users\Лева\Documents\Visual Studio 2013\Projects\Cross\Cross\bin\Release\Cross.exe
+C:\Users\Лева\Documents\Visual Studio 2013\Projects\Cross\Cross\bin\Release\Cross.pdb
+C:\Users\Лева\Documents\Visual Studio 2013\Projects\Cross\Cross\obj\Release\MainWindow.baml
+C:\Users\Лева\Documents\Visual Studio 2013\Projects\Cross\Cross\obj\Release\MainWindow.g.cs
+C:\Users\Лева\Documents\Visual Studio 2013\Projects\Cross\Cross\obj\Release\App.g.cs
+C:\Users\Лева\Documents\Visual Studio 2013\Projects\Cross\Cross\obj\Release\Cross_MarkupCompile.cache
+C:\Users\Лева\Documents\Visual Studio 2013\Projects\Cross\Cross\obj\Release\Cross.g.resources
+C:\Users\Лева\Documents\Visual Studio 2013\Projects\Cross\Cross\obj\Release\Cross.Properties.Resources.resources
+C:\Users\Лева\Documents\Visual Studio 2013\Projects\Cross\Cross\obj\Release\Cross.csproj.GenerateResource.Cache
+C:\Users\Лева\Documents\Visual Studio 2013\Projects\Cross\Cross\obj\Release\Cross.exe
+C:\Users\Лева\Documents\Visual Studio 2013\Projects\Cross\Cross\obj\Release\Cross.pdb

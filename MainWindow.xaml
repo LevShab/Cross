@@ -1,0 +1,14 @@
+﻿<Window x:Class="Cross.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="Start" Content="Подбор игроков" HorizontalAlignment="Left" Height="30" Margin="23,10,0,0" VerticalAlignment="Top" Width="100" Click="Start_Click"/>
+        <Button x:Name="Find" Content="Подбор информации по номеру игрока" HorizontalAlignment="Left" Height="30" Margin="23,70,0,0" VerticalAlignment="Top" Width="239" Click="Find_Click"/>
+        <TextBox x:Name="Many" HorizontalAlignment="Left" Height="30" Margin="366,10,0,0"  VerticalAlignment="Top" Width="111" PreviewTextInput="NumberValidationTextBox"/>
+        <Label x:Name="Postition" Content="" HorizontalAlignment="Left" Margin="23,134,0,0" VerticalAlignment="Top" ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.HorizontalScrollBarVisibility="Auto"/>
+        <ComboBox x:Name="Number" HorizontalAlignment="Left" Height="33" Margin="366,70,0,0" VerticalAlignment="Top" Width="111" IsSynchronizedWithCurrentItem="True" SelectedIndex="13"/>
+        <Label Content="Номер" HorizontalAlignment="Left" Height="30" Margin="300,70,0,0" VerticalAlignment="Top" Width="61" FontSize="16"/>
+
+    </Grid>
+</Window>
